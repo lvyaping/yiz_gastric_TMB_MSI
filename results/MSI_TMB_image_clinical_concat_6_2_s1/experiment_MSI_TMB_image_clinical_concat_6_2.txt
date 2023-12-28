@@ -1,0 +1,1 @@
+{'num_splits': 5, 'k_start': -1, 'k_end': -1, 'task': 'dummy_mtl_concat', 'max_epochs': 200, 'results_dir': './results', 'lr': 0.0002, 'experiment': 'MSI_TMB_image_clinical_concat_6_2', 'reg': 1e-05, 'seed': 1, 'use_drop_out': True, 'weighted_sample': False, 'opt': 'adam', 'split_dir': 'splits/dummy_mtl_concat_10'}
