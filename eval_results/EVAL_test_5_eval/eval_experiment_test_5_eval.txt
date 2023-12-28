@@ -1,0 +1,1 @@
+{'task': 'dummy_mtl_concat', 'split': 'test', 'save_dir': './eval_results/EVAL_test_5_eval', 'models_dir': 'results/Image_6clinical_TMB_MSI', 'drop_out': True, 'micro_avg': False}
